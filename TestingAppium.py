@@ -12,7 +12,7 @@ capabilities = dict(
     language='en',
     locale='US'
 )
-
+#appium test
 appium_server_url = 'http://localhost:4723'
 
 class TestAppium(unittest.TestCase):
