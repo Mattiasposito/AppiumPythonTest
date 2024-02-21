@@ -1,0 +1,5 @@
+21/02/24 10:05:02 PM: CRITICAL: This is critical
+21/02/24 10:05:02 PM: ERROR: This is a error message
+21/02/24 10:05:02 PM: WARNING: This is a warning message
+21/02/24 10:05:02 PM: INFO: This is a info message
+21/02/24 10:05:02 PM: DEBUG: This is a debug message
