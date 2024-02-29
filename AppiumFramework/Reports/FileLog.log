@@ -1,0 +1,50 @@
+28/02/24 06:50:56 PM Wednesday: <module>: INFO: Launch App
+28/02/24 09:21:23 PM Wednesday: <module>: INFO: Launch App
+28/02/24 09:21:23 PM Wednesday: BasePage: INFO: Locator value//*[@text='Network & internet']not found
+28/02/24 09:22:06 PM Wednesday: <module>: INFO: Launch App
+28/02/24 09:22:06 PM Wednesday: BasePage: INFO: Locator value//*[@text='Network & internet']not found
+28/02/24 09:22:44 PM Wednesday: <module>: INFO: Launch App
+28/02/24 09:22:44 PM Wednesday: BasePage: INFO: Locator value//*[@text='Network & internet']not found
+28/02/24 09:24:12 PM Wednesday: <module>: INFO: Launch App
+28/02/24 09:24:12 PM Wednesday: BasePage: INFO: Locator value//*[@text='Network & internet']not found
+28/02/24 09:25:08 PM Wednesday: <module>: INFO: Launch App
+28/02/24 09:25:08 PM Wednesday: BasePage: INFO: Locator value//*[@text='Network & internet']not found
+28/02/24 09:25:55 PM Wednesday: <module>: INFO: Launch App
+28/02/24 09:25:55 PM Wednesday: BasePage: INFO: Locator value//*[@text='Network & internet']not found
+28/02/24 09:27:25 PM Wednesday: <module>: INFO: Launch App
+28/02/24 09:27:25 PM Wednesday: BasePage: INFO: Locator value//*[@text='Network & internet']not found
+28/02/24 09:28:31 PM Wednesday: <module>: INFO: Launch App
+29/02/24 09:12:59 AM Thursday: <module>: INFO: Launch App
+29/02/24 09:13:01 AM Thursday: BasePage: INFO: Clicked on element with LocatorType: xpath and with the locatorValue //*[@text='Network & internet']
+29/02/24 09:20:12 AM Thursday: <module>: INFO: Launch App
+29/02/24 09:20:14 AM Thursday: BasePage: INFO: Clicked on element with LocatorType: xpath and with the locatorValue //*[@text='Network & internet']
+29/02/24 09:20:16 AM Thursday: BasePage: INFO: Locator valuecom.android.settings:id/switchWidgetnot found
+29/02/24 09:20:16 AM Thursday: BasePage: INFO: Element not found with LocatorType: id and with the locatorValue com.android.settings:id/switchWidget
+29/02/24 09:22:13 AM Thursday: <module>: INFO: Launch App
+29/02/24 09:22:15 AM Thursday: BasePage: INFO: Clicked on element with LocatorType: xpath and with the locatorValue //*[@text='Network & internet']
+29/02/24 09:22:18 AM Thursday: BasePage: INFO: Element found with LocatorType: id with the locatorValue com.android.settings:id/switchWidget
+29/02/24 11:30:18 AM Thursday: <module>: INFO: Launch App
+29/02/24 11:30:20 AM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/App-test_29_02_24_11_30_18.png
+29/02/24 11:30:21 AM Thursday: BasePage: INFO: Clicked on element with LocatorType: xpath and with the locatorValue //*[@text='Network & internet']
+29/02/24 11:30:23 AM Thursday: BasePage: INFO: Element found with LocatorType: id with the locatorValue com.android.settings:id/switchWidget
+29/02/24 11:30:24 AM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/TEST-OK_29_02_24_11_30_23.png
+29/02/24 11:31:29 AM Thursday: <module>: INFO: Launch App
+29/02/24 11:31:31 AM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/App-test_29_02_24_11_31_29.png
+29/02/24 11:31:32 AM Thursday: BasePage: INFO: Clicked on element with LocatorType: xpath and with the locatorValue //*[@text='Network & internet']
+29/02/24 11:31:35 AM Thursday: BasePage: INFO: Element found with LocatorType: id with the locatorValue com.android.settings:id/switchWidget
+29/02/24 11:31:36 AM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/TEST-OK_29_02_24_11_31_35.png
+29/02/24 11:32:34 AM Thursday: <module>: INFO: Launch App
+29/02/24 11:32:38 AM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/App-test_29_02_24_11_32_37.png
+29/02/24 11:33:03 AM Thursday: BasePage: INFO: Unable to click on element with LocatorType: xpath and with the locatorValue //*[@text='Network & internet']
+29/02/24 11:33:12 AM Thursday: BasePage: INFO: Element not found with LocatorType: id and with the locatorValue com.android.settings:id/switchWidget
+29/02/24 11:33:13 AM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/TEST-OK_29_02_24_11_33_12.png
+29/02/24 11:33:23 AM Thursday: <module>: INFO: Launch App
+29/02/24 11:33:24 AM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/App-test_29_02_24_11_33_23.png
+29/02/24 11:33:26 AM Thursday: BasePage: INFO: Clicked on element with LocatorType: xpath and with the locatorValue //*[@text='Network & internet']
+29/02/24 11:33:28 AM Thursday: BasePage: INFO: Element found with LocatorType: id with the locatorValue com.android.settings:id/switchWidget
+29/02/24 11:33:29 AM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/TEST-OK_29_02_24_11_33_28.png
+29/02/24 04:29:56 PM Thursday: <module>: INFO: Launch App
+29/02/24 04:29:56 PM Thursday: BasePage: INFO: Screenshot save to Path: ../Screenshots/App-test_29_02_24_16_29_56.png
+29/02/24 04:29:58 PM Thursday: BasePage: INFO: Clicked on element with LocatorType: xpath and with the locatorValue //*[@text='Network & internet']
+29/02/24 04:30:26 PM Thursday: BasePage: INFO: Element not found with LocatorType: id and with the locatorValue com.android.settings:id/switchWidget
+29/02/24 04:30:42 PM Thursday: BasePage: INFO: Unable to save screenshot to path: ../Screenshots/TEST-OK_29_02_24_16_30_26.png
